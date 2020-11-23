@@ -1,2 +1,2 @@
 # useless_fun
-As the name suggested, it is completely useless...
+As the name suggested, it is completely useless...but fun
